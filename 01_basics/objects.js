@@ -103,11 +103,11 @@ console.log(price);
 
 //JSON syntax
 
-{
-    "coursename":"js in hindi",
-    "courseprice":999,
-    "courseinstructor":"Himadri"
-} 
+// {
+//     "coursename":"js in hindi",
+//     "courseprice":999,
+//     "courseinstructor":"Himadri"
+// } 
 
 
 //sometimes JSON also come as array format as well like
